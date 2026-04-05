@@ -1,9 +1,9 @@
 ## Hi, I'm Anil — VLSI & FPGA Design Engineer 👋
 
 I build silicon from RTL to GDSII — specializing in ASIC physical design,
-FPGA implementation, and AI accelerator architecture on open-source EDA flows.
+FPGA implementation and AI accelerator architecture on open-source EDA flows.
 
-### What I build
+### What I built
 - **ASIC Physical Design** — Full PnR on SKY130 using OpenLane2 + OpenROAD, DRC/LVS clean
 - **FPGA Acceleration** — Systolic array AI accelerator on ZCU104 Zynq UltraScale+
 
@@ -14,6 +14,6 @@ FPGA implementation, and AI accelerator architecture on open-source EDA flows.
 | [systolic-array-fpga-zcu104](https://github.com/AnilS454/systolic-array-fpga-zcu104) | Vivado · Zynq · SystemVerilog · HLS | ✅ Post-Imp Simulation |
 
 ### Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AnilS454-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN_HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AnilS454-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/sanneboyina-anil/)
 
-![Profile](./profile.jpg)
+![Profile]("C:\Users\anils\OneDrive\Pictures\Anil_Sanneboyina.png")
