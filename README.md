@@ -16,4 +16,4 @@ FPGA implementation and AI accelerator architecture on open-source EDA flows.
 ### Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AnilS454-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/sanneboyina-anil/)
 
-![Profile]("C:\Users\anils\OneDrive\Pictures\Anil_Sanneboyina.png")
+![Profile](./profile.jpg)
