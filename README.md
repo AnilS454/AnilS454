@@ -11,7 +11,7 @@ FPGA implementation, and AI accelerator architecture on open-source EDA flows.
 | Project | Stack | Status |
 |---|---|---|
 | [pe-asic-sky130](https://github.com/AnilS454/pe-asic-sky130) | OpenLane2 · OpenROAD · SKY130 · OpenSTA | ✅ GDS + Timing Clean |
-| [systolic-array-fpga-zcu104](https://github.com/AnilS454/systolic-array-fpga-zcu104) | Vivado · Zynq · SystemVerilog · HLS | ✅ Hardware Verified |
+| [systolic-array-fpga-zcu104](https://github.com/AnilS454/systolic-array-fpga-zcu104) | Vivado · Zynq · SystemVerilog · HLS | ✅ Post-Imp Simulation |
 
 ### Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AnilS454-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN_HANDLE)
