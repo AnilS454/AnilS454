@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Anil — VLSI & FPGA Design Engineer 👋
 
-<!--
-**AnilS454/AnilS454** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build silicon from RTL to GDSII — specializing in ASIC physical design,
+FPGA implementation, and AI accelerator architecture on open-source EDA flows.
 
-Here are some ideas to get you started:
+### What I build
+- **ASIC Physical Design** — Full PnR on SKY130 using OpenLane2 + OpenROAD, DRC/LVS clean
+- **FPGA Acceleration** — Systolic array AI accelerator on ZCU104 Zynq UltraScale+
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Key Projects
+| Project | Stack | Status |
+|---|---|---|
+| [pe-asic-sky130](https://github.com/AnilS454/pe-asic-sky130) | OpenLane2 · OpenROAD · SKY130 · OpenSTA | ✅ GDS + Timing Clean |
+| [systolic-array-fpga-zcu104](https://github.com/AnilS454/systolic-array-fpga-zcu104) | Vivado · Zynq · SystemVerilog · HLS | ✅ Hardware Verified |
+
+### Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AnilS454-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN_HANDLE)
+
+![Profile](./profile.jpg)
