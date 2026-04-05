@@ -1,4 +1,4 @@
-## Hi, I'm Anil — VLSI & FPGA Design Engineer 👋
+## Hi, I'm Anil — VLSI  Engineer 👋
 
 I build silicon from RTL to GDSII — specializing in ASIC physical design,
 FPGA implementation and AI accelerator architecture on open-source EDA flows.
